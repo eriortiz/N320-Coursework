@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "people": [
+      {
+        "name": "Harvey",
+        "age": "19",
+        "student": false
+      },
+      {
+        "name": "Adam",
+        "age": "18",
+        "student": true
+      },
+      {
+        "name": "Lindsey",
+        "age": "18",
+        "student": true
+      }
+    ]
+  }
+}
